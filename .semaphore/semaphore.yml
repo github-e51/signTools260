@@ -6,7 +6,6 @@ agent:
     os_image: macos-xcode14
 execution_time_limit:
   minutes: 30
-
 blocks:
   - name: Sign
     task:
